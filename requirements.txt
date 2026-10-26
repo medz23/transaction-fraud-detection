@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+torch
+fastapi
+uvicorn
+slowapi
+strands-agents
+joblib
+pytest
+httpx
+lightgbm
